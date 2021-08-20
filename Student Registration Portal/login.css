@@ -1,0 +1,19 @@
+body {
+    background: black;
+    font-family: sans-serif;
+    background-image: url('bg.jpg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    background: #b4e014;
+    margin: 0 120px 0 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 05px;
+}

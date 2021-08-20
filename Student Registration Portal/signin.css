@@ -1,0 +1,21 @@
+body {
+    background: black;
+    font-family: sans-serif;
+    background: black;
+    font-family: sans-serif;
+    background-image: url('Sigin.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.heading {
+    background: #1097cc;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 05px;
+}
